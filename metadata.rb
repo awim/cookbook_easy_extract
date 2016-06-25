@@ -1,0 +1,7 @@
+name 'easy_extract'
+maintainer 'awim / mtaqwim'
+maintainer_email 'muhammadtaqwiem@gmail.com'
+license 'gplv3'
+description 'Installs/Configures easy_extract'
+long_description 'Installs/Configures easy_extract'
+version '0.1.0'
